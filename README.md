@@ -56,13 +56,8 @@ This Power BI dashboard delivers a <b>360° view of hotel performance</b>, enabl
 <h2>📸 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="YOUR_SCREENSHOT_LINK_HERE" width="800"/>
+  <img src="demo_img.jpg" width="800"/>
 </p>
-
-<p align="center">
-  <i>⚠️ Replace with your actual dashboard screenshot — not doing this is a serious mistake.</i>
-</p>
-
 <hr/>
 
 <h2>📊 Key Metrics</h2>
@@ -189,7 +184,6 @@ This Power BI dashboard delivers a <b>360° view of hotel performance</b>, enabl
 
 <p>
 <b>Anjan</b><br/>
-B.Sc Computer Science, University of Delhi
 </p>
 
 <hr/>
