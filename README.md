@@ -4,7 +4,6 @@
   <b>Turning raw booking data into revenue-driving decisions</b><br/>
   Built using Power BI • Data Modeling • DAX
 </p>
-
 <hr/>
 
 <h2>🏨 Business Problem</h2>
