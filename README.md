@@ -18,7 +18,6 @@ Hotel chains struggle with:
   <li>❌ Unclear pricing strategies (ADR not aligned with demand)</li>
   <li>❌ Low occupancy during non-peak periods</li>
   <li>❌ Revenue leakage due to cancellations and inefficiencies</li>
-  <li>❌ Lack of visibility across cities, properties, and booking platforms</li>
 </ul>
 
 <p>
@@ -29,7 +28,6 @@ Decision-makers often rely on fragmented reports, making it difficult to answer 
   <li>👉 Which cities are driving the most revenue?</li>
   <li>👉 Are we pricing rooms optimally?</li>
   <li>👉 Which platforms bring high-value customers?</li>
-  <li>👉 Where are we losing potential revenue?</li>
 </ul>
 
 <p>
@@ -48,7 +46,6 @@ This Power BI dashboard delivers a <b>360° view of hotel performance</b>, enabl
   <li>✔ Monitor key KPIs in real time</li>
   <li>✔ Identify trends and seasonality patterns</li>
   <li>✔ Optimize pricing strategies</li>
-  <li>✔ Improve occupancy and revenue efficiency</li>
 </ul>
 
 <hr/>
@@ -69,11 +66,6 @@ This Power BI dashboard delivers a <b>360° view of hotel performance</b>, enabl
 </tr>
 
 <tr>
-<td><b>Revenue</b></td>
-<td>Total income generated from bookings</td>
-</tr>
-
-<tr>
 <td><b>RevPAR</b></td>
 <td>Revenue per available room (core performance metric)</td>
 </tr>
@@ -81,11 +73,6 @@ This Power BI dashboard delivers a <b>360° view of hotel performance</b>, enabl
 <tr>
 <td><b>ADR</b></td>
 <td>Average Daily Rate (pricing effectiveness)</td>
-</tr>
-
-<tr>
-<td><b>Occupancy %</b></td>
-<td>Room utilization rate</td>
 </tr>
 
 <tr>
@@ -144,7 +131,6 @@ This Power BI dashboard delivers a <b>360° view of hotel performance</b>, enabl
   <li>📍 Revenue concentration across top-performing cities</li>
   <li>📉 Low realization % indicates revenue leakage</li>
   <li>📊 ADR vs Occupancy imbalance highlights pricing inefficiencies</li>
-  <li>📅 Clear demand patterns across weeks and seasons</li>
 </ul>
 
 <hr/>
@@ -164,7 +150,6 @@ This Power BI dashboard delivers a <b>360° view of hotel performance</b>, enabl
 <ol>
   <li>Download the <code>.pbix</code> file</li>
   <li>Open in <b>Power BI Desktop</b></li>
-  <li>Refresh data if needed</li>
   <li>Interact with filters and visuals</li>
 </ol>
 
